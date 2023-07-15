@@ -37,15 +37,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <h3 align="left">Activity Bar: ✨</h3>
 
 <div><img  alt="Dilshan Kumarawansha Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimeshdkumarawansha&theme=gruvbox"/></div>
 
-  <div>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=yasirubhagya&theme=tokyonight&show_icons=true&hide_border=true" />
-  </div>
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 NDKumarawansha

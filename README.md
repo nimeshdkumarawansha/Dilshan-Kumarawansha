@@ -30,6 +30,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1.svg?style=for-the-badge&logo=heidi-sql&logoColor=white)](https://www.heidisql.com/)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF69B4)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1E90FF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)

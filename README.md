@@ -23,8 +23,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-
-
 </p>
 <h3 align="left">Languages and Tools I Use: ✨</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshdkumarawansha&show_icons=true&locale=en&layout=compact" alt="ndkumarawansha" /></p>
@@ -34,10 +32,20 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF69B4)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1E90FF)
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">Activity Bar: ✨</h3>
 
 <div><img  alt="Dilshan Kumarawansha Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimeshdkumarawansha&theme=gruvbox"/></div>
 
-
+  <div>
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=yasirubhagya&theme=tokyonight&show_icons=true&hide_border=true" />
+  </div>
 
 NDKumarawansha

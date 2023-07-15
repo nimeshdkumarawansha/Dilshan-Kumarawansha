@@ -1,6 +1,5 @@
 # Dilshan Kumarawansha
 ![MasterHead](https://www.instavyapar.com/images/inner-page/Dynamic-Web%20-Designing.gif)
-![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumarawansha</h1>
 <h3 align="center">Intern Full Stack Developer at CyberElysium</h3>

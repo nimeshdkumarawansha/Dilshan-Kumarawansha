@@ -1,5 +1,5 @@
 # Dilshan Kumarawansha
-![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1689403158~exp=1689403758~hmac=277792d7894964291e22fb2e6e3e2ef7ce79f5745e835d5708fd72466d9f9071)
+![MasterHead](https://www.instavyapar.com/images/inner-page/Dynamic-Web%20-Designing.gif)
 ![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumarawansha</h1>

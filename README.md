@@ -1,4 +1,4 @@
-# Dilshan-Kumarawansha
+# Dilshan Kumarawansha
 ![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumarawansha</h1>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankumarawansha" /> </p>
 
-- 💬 Ask me about **HTML, CSS, ,PHP, Laravel, JAVA, Flutter, Dart, Javascript, Vue**
+- 💬 Ask me about **HTML, CSS, PHP, Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 
 - 📫 How to reach me **ndkumarawansha@gmail.com**
 

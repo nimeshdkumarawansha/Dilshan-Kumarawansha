@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <!--  <img width="55%" align="right" alt="Github" src="" /> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankumarawansha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshdkumarawansha&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankumarawansha" /> </p>
 
 - 💬 Ask me about **HTML, CSS, PHP, Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 

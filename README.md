@@ -33,8 +33,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF69B4)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1E90FF)
 
-
-<br>
 <br>
 <br>
 <br>

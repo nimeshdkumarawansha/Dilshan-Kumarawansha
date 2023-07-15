@@ -20,10 +20,10 @@
 <h3 align="left">Languages and Tools I Use: ✨</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshdkumarawansha&show_icons=true&locale=en&layout=compact" alt="ndkumarawansha" /></p>
 
-<div><img  alt="Dilshan Kumarawansha Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimeshdkumarawansha&theme=gruvbox"/></div>
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+<div><img  alt="Dilshan Kumarawansha Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimeshdkumarawansha&theme=gruvbox"/></div>
 
 <br>
 
